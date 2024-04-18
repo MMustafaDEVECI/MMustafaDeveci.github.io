@@ -103,7 +103,7 @@ footer {
     font-size: large;
 }
 #details {
-    background-image: url('background.jpg'); /* Replace 'background.jpg' with your image */
+    background-image: url('Images/background.jpg'); 
     background-size: cover;
     background-position: center;
 }
